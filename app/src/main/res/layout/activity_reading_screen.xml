@@ -11,4 +11,12 @@
     tools:context="nickhaynes.demo21days.controller.ReadingScreenActivity"
     android:background="#3e1e1e">
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="main menu"
+        android:id="@+id/backToMainMenuButton"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"/>
 </RelativeLayout>
